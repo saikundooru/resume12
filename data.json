@@ -1,0 +1,43 @@
+{
+	"details":{
+		"name":"sai.k",
+		"image":"pt.jpg",
+		"phone":"8790801838",
+		"email":"saicse2020@gmail.com"
+
+	},
+	"education":[
+           {
+           	"course":"B.Tech(CSE)",
+           	"college":"DVR & Dr.HS MIC College Of Technology",
+           	"per":"78%"
+           },
+           {
+           	"course":"Intermediate(MPC)",
+           	"college":"PBS College",
+           	"per":"86.8%"
+           },
+           {
+           	"course":"10th(SSC)",
+           	"college":"SKPVVHH School",
+           	"per":"75%"
+           }
+	],
+	"skills":[
+		{
+			"title":"pragramming languages:",
+			"output":[
+				"c","c++","java","python","Ads"
+			]
+		},
+		{
+		"title":"operating systems:",
+			"output":[
+				"linux","unix","windows"
+				]
+}
+	],
+ "career":{
+     	"c":"Adminstrative assitance with 6 years of experience working directly for the president of 3m inc company"
+     }
+ }
